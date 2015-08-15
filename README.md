@@ -8,13 +8,17 @@
 * Github Desktop
 * Minecraft
 * QQ
-
-
-##Windows
+* Sublime
 
 ##Macintosh
 * Mou
+* Unarchiver
+* Weichat
 
-##Linux
+##Windows
+* Lenovo驱动管理
+* PyCharm
+* Visual Studio
 * VMware
 * Ubuntu
+
