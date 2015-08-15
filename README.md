@@ -5,16 +5,16 @@
 * Adobe Photoshop
 * Adobe Reader
 * Chrome
-* Github Desktop
-* Minecraft
-* QQ
-* Sublime
+* [Github Desktop](https://desktop.github.com/)
+* [Minecraft](https://minecraft.net/)
+* [QQ](http://im.qq.com/download/)
+* [Sublime](http://www.sublimetext.com/)
 * [Website Marklist](https://github.com/wuzhiyi/marklist/blob/master/README.md)
 
 ##Macintosh
-* Mou
+* [Mou](http://25.io/mou/)
 * Unarchiver
-* Weichat
+* WeChat
 
 ##Windows
 * Lenovo驱动管理
