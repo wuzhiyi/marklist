@@ -9,7 +9,7 @@
 * [Minecraft](https://minecraft.net/)
 * [QQ](http://im.qq.com/download/)
 * [Sublime](http://www.sublimetext.com/)
-* [Website Marklist](https://github.com/wuzhiyi/marklist/blob/master/README.md)
+* [Website Marklist](https://github.com/wuzhiyi/nuke-and-reinstall/blob/master/marklist.md)
 
 ##Macintosh
 * [Mou](http://25.io/mou/)
