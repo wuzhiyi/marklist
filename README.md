@@ -1,5 +1,5 @@
 # marklist
-<div align="center"> ![img](https://cloud.githubusercontent.com/assets/9131176/10749918/c8163470-7caa-11e5-8a44-3ca27d97be47.png)</div>
+![img](https://cloud.githubusercontent.com/assets/9131176/10749918/c8163470-7caa-11e5-8a44-3ca27d97be47.png)
 
 ##A
 * [Advanced Data Structure](https://courses.csail.mit.edu/6.851/spring14/) `Mooc`</br>
