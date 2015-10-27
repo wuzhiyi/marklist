@@ -80,7 +80,7 @@
 ##S
 * [shields.io](http://shields.io/)</br>
 * [somestuff](http://somestuff.ru/)</br>
-* [三水清](http://js8.in/)</br>
+* [三水清](http://js8.in/) `Blog`</br>
 
 ##T
 * [the5fire](http://www.the5fire.com/) - 关注python、vim、linux、web开发和互联网 `Blog`</br>
