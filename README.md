@@ -1,6 +1,14 @@
 # marklist
 ![img](https://cloud.githubusercontent.com/assets/9131176/10749918/c8163470-7caa-11e5-8a44-3ca27d97be47.png)
 
+<p align="center">
+  <a href="https://circleci.com/gh/vuejs/vue/tree/master"><img src="https://circleci.com/gh/vuejs/vue/tree/master.svg?style=shield" alt="Build Status"></a>
+  <a href="https://codecov.io/github/vuejs/vue?branch=master"><img src="https://codecov.io/github/vuejs/vue/coverage.svg?branch=dev" alt="Coverage Status"></a>
+  <a href="https://www.bithound.io/github/vuejs/vue"><img src="https://www.bithound.io/github/vuejs/vue/badges/score.svg" alt="bitHound Score"></a>
+  <br>
+  <a href="http://issuestats.com/github/vuejs/vue"><img src="http://issuestats.com/github/vuejs/vue/badge/issue?style=flat"></a>
+  <a href="https://gitter.im/vuejs/vue"><img src="https://badges.gitter.im/Join Chat.svg"></a>
+
 ##A
 * [Advanced Data Structure](https://courses.csail.mit.edu/6.851/spring14/) `Mooc`</br>
 * [all-free-download](http://all-free-download.com)</br>
