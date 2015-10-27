@@ -1,5 +1,5 @@
 # marklist
-<div align="center">![img](https://cloud.githubusercontent.com/assets/9131176/10749918/c8163470-7caa-11e5-8a44-3ca27d97be47.png)</br>
+<div align="center">![img](https://cloud.githubusercontent.com/assets/9131176/10749918/c8163470-7caa-11e5-8a44-3ca27d97be47.png)</div></br>
 ##Blog
 * [不周山](http://www.wentrue.net/blog/)：一个算法工程师的记忆</br>
 * [惠新宸](http://www.laruence.com/)：风雪之隅 - Laruence 的博客</br>
