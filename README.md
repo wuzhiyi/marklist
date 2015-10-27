@@ -78,6 +78,7 @@
 * [Rust Standard Library](https://doc.rust-lang.org/std/)</br>
 
 ##S
+* [shields.io](http://shields.io/)</br>
 * [somestuff](http://somestuff.ru/)</br>
 
 ##T
