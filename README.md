@@ -87,8 +87,8 @@
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) - Unsupervised Feature Learning and Deep Learning `Mooc`</br>
 
 ##V
-* [VisuAlgo](http://visualgo.net/) `Visualization` `Algorithm`</br>
-* [VisuAlgo 中文镜像](http://zh.visualgo.net/) `Visualization` `Algorithm`</br>
+* [VisuAlgo](http://visualgo.net/) `Algorithm` `Visualization`</br>
+* [VisuAlgo 中文镜像](http://zh.visualgo.net/) `Algorithm` `Visualization`</br>
 
 ##W
 * [王垠](http://www.yinwang.org/) `Blog`</br>
