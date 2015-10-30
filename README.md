@@ -1,9 +1,5 @@
-# marklist
 ![img](https://cloud.githubusercontent.com/assets/9131176/10749918/c8163470-7caa-11e5-8a44-3ca27d97be47.png)
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/wuzhiyi/marklist/blob/master/README.md)
-[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/wuzhiyi/marklist)
-[![VersionEye](https://img.shields.io/versioneye/d/ruby/rails.svg)](https://github.com/wuzhiyi/marklist)
-[![CocoaPods](https://img.shields.io/cocoapods/p/AFNetworking.svg)](https://github.com/wuzhiyi/marklist)
 ##A
 * [Advanced Data Structure](https://courses.csail.mit.edu/6.851/spring14/) `Mooc`</br>
 * [all-free-download](http://all-free-download.com)</br>
