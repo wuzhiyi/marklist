@@ -70,10 +70,12 @@
 * [RiceQuant](https://www.ricequant.com/)</br>
 * [Romain Trystram's Portfolio](http://laylow.prosite.com/)</br>
 * [RStudio Blog ](http://blog.rstudio.org/)</br>
+* [Rust官方博客](http://blog.rust-lang.org/)</br>
 * [Rust中文社区](https://www.rust.cc) `Community`</br>
 * [Rust Standard Library](https://doc.rust-lang.org/std/)</br>
 
 ##S
+* [shadertoy BETA](https://www.shadertoy.com/) `GLSL`</br>
 * [shields.io](http://shields.io/)</br>
 * [somestuff](http://somestuff.ru/)</br>
 * [三水清](http://js8.in/) `Blog`</br>
