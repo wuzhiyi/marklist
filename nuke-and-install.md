@@ -1,4 +1,4 @@
-# Nuke & Install
+# App and Tools
 ##General
 * Adobe Flash
 * Adobe Illustrator
@@ -12,6 +12,8 @@
 * [_Website Marklist_](https://github.com/wuzhiyi/nuke-and-reinstall/blob/master/marklist.md)
 
 ##Macintosh
+* Alfred
+* Dash
 * [Mou](http://25.io/mou/)
 * Unarchiver
 * WeChat
