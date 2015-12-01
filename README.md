@@ -16,6 +16,7 @@
 * [不周山](http://www.wentrue.net/blog/) `blog` </br>
 
 ##C
+* [CodePen](http://codepen.io/) `frontend` </br>
 * [colah's blog](http://colah.github.io/) `GitHub`</br>
 * [CS 188](http://ai.berkeley.edu/project_overview.html) - UC Berkeley AI `mooc`</br>
 * [CS 61B](http://www-inst.eecs.berkeley.edu/~cs61b/fa15/) - Data Structures and Advanced Programming `mooc`</br>
@@ -80,6 +81,7 @@
 * [Rust Standard Library](https://doc.rust-lang.org/std/)</br>
 
 ##S
+* [Searchcode](https://searchcode.com/) - Source Code Search Engine</br>
 * [shadertoy BETA](https://www.shadertoy.com/) `GLSL`</br>
 * [shields.io](http://shields.io/)</br>
 * [Software Analysis](http://sei.pku.edu.cn/~xiongyf04/SA/2015/main.htm) - 熊英飞 `mooc` `PKU`</br>
@@ -101,6 +103,7 @@
 * [VisuAlgo 中文镜像](http://zh.visualgo.net/) `algorithm` `visualization`</br>
 
 ##W
+* [Word Data Bank](http://databank.worldbank.org/data/home.aspx) </br>
 * [王垠](http://www.yinwang.org/) `blog`</br>
 
 ##X
