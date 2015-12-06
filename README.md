@@ -57,6 +57,7 @@
 * [Linux公社](https://www.linuxidc.com) `community`</br>
 
 ##M
+* [Matrix67: The Aha Moments](http://www.matrix67.com/blog/)</br>
 * [木遥的窗子](http://blog.farmostwood.net/) `blog`</br>
 
 ##N
