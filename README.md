@@ -3,6 +3,7 @@
 ##A
 * [Advanced Data Structure](https://courses.csail.mit.edu/6.851/spring14/) `mooc`</br>
 * [all-free-download](http://all-free-download.com)</br>
+* [AMiner](https://aminer.org/) - Open Science Platform</br>
 * [arguman](http://en.arguman.org/)</br>
 * [Awesome](https://github.com/sindresorhus/awesome)</br>
 * [Awesomes](http://awesomes.cn/) - 前端资源库 `community`</br>
@@ -24,11 +25,12 @@
 * [CSDN 博客专栏－Rust 语言解惑](https://blog.csdn.net/column/details/rust.html?page=1)</br>
 * [CSDN 极客头条－Rust 社区](https://geek.csdn.net/forum/8)</br>
 * [CSE 705](http://www.cse.buffalo.edu/~hungngo/classes/2015/705/) - Deep Learning `mooc`</br>
+* [崔庆才](http://cuiqingcai.com/) `blog`</br>
 
 ##D
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)</br>
+* [Docset Generation Guide](https://kapeli.com/docsets)</br>
 * [Dribble List](https://dribbble.com/ShekXiang/following)</br>
-* [崔庆才](http://cuiqingcai.com/) `blog`</br>
 
 ##F
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/) `lowpoly`</br>
@@ -62,6 +64,9 @@
 
 ##N
 * [nxxcxx/Neural-Network](http://nxxcxx.github.io/Neural-Network/) `NeuralNetwork` `visualization`</br>
+
+##O
+- [Online-Convert](http://image.online-convert.com/convert-to-webp)</br>
 
 ##P
 * [Photoshop高手之路基础篇](http://study.163.com/course/introduction/203001.htm#/courseDetail)</br>
