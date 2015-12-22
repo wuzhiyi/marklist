@@ -34,6 +34,7 @@
 
 ##F
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/) `lowpoly`</br>
+* [Free Prgramming Books-zh](https://github.com/chengym/free-programming-books-zh_CN)免费计算机编程类中文书籍</br>
 
 ##G
 * [国外机器学习的Blog推荐](http://suanfazu.com/t/guo-wai-ji-qi-xue-xi-de-blogtui-jian/26) `machinelearning`</br>
