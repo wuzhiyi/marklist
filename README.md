@@ -55,11 +55,13 @@
 * [酷壳 - CoolShell.cn](http://coolshell.cn/) `community`</br>
 
 ##L
+* [LaTeX: Symbols](http://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)</br>
 * [Leetcode Problems Algorithms](https://leetcode.com/problemset/algorithms/)</br>
 * [Leetcode Problems' Solution - haoel](https://github.com/haoel/leetcode)</br>
 * [Linux公社](https://www.linuxidc.com) `community`</br>
 
 ##M
+* [Mathjax Basic Tutorial and Quick Reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)</br> `LaTeX`
 * [Matrix67: The Aha Moments](http://www.matrix67.com/blog/)</br>
 * [木遥的窗子](http://blog.farmostwood.net/) `blog`</br>
 
